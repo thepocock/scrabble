@@ -1,7 +1,7 @@
 # scrabble
 Sample SQL - Circa 2019
 
-SQL Curriculum Examples
+## SQL Curriculum Examples
 
 This repository contains a sample selection of SQL exercises and reference scripts originally created as part of a curriculum I developed to teach analysts practical SQL.
 
