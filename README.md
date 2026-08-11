@@ -1,5 +1,5 @@
 # scrabble
-Sample SQL - Circa 2019
+Sample SQL - Circa 2021
 
 ## SQL Curriculum Examples
 
