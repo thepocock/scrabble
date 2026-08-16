@@ -1,4 +1,5 @@
 # scrabble
+
 Sample SQL - Circa 2021
 
 ## SQL Curriculum Examples
